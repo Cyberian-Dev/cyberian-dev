@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "98033d7ac5060e4433ff3c352d0c9834"
+        "md5": "2b079b8b7f6f649d4fdff2a7319dc976"
     },
     {
         "path": "assets",
@@ -32,7 +32,7 @@
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "95cb892b2b20b639cc2878f66414e526"
+        "md5": "22a14dfd33a8b2b1f5fa4786a8b8e42c"
     },
     {
         "path": "assets/js",
@@ -107,12 +107,12 @@
     {
         "path": "/authors/cyb/index.html",
         "type": "file",
-        "md5": "363410e1a9d8cec543927f8bae01cc0a"
+        "md5": "df98bf9c4811198f958e2503db603ef0"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "251842399bea7410439a5635d363b869"
+        "md5": "d27bcf2db7211e3548e7dee8a3072d38"
     },
     {
         "path": "media",
@@ -140,9 +140,44 @@
         "md5": false
     },
     {
-        "path": "/media/website/undraw_Add_tasks_re_s5yj.svg",
+        "path": "/media/website/devvin.png",
         "type": "file",
-        "md5": "18e0343e4a802ef4b9d07c1d929e7e22"
+        "md5": "e2fd45fdc10b39a8e6b5bd3ab3ca4c7a"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/devvin-2xl.png",
+        "type": "file",
+        "md5": "e0ca617760a5278e9d50dff1a205953d"
+    },
+    {
+        "path": "/media/website/responsive/devvin-lg.png",
+        "type": "file",
+        "md5": "bcdaa15ababe9d5382a61cdde869035f"
+    },
+    {
+        "path": "/media/website/responsive/devvin-md.png",
+        "type": "file",
+        "md5": "14debc0748cc5db96e15d00428b64f32"
+    },
+    {
+        "path": "/media/website/responsive/devvin-sm.png",
+        "type": "file",
+        "md5": "672a6ee65f24124e9f09f41caf92fe18"
+    },
+    {
+        "path": "/media/website/responsive/devvin-xl.png",
+        "type": "file",
+        "md5": "f11e53ecf54f5d8c90c10f98675f662e"
+    },
+    {
+        "path": "/media/website/responsive/devvin-xs.png",
+        "type": "file",
+        "md5": "a32d5685e43c33b6f0b7112f6f4c8497"
     },
     {
         "path": "robots.txt",
@@ -152,7 +187,7 @@
     {
         "path": "search.html",
         "type": "file",
-        "md5": "9e18d778d15a90fce7b2c88bbc1d4d51"
+        "md5": "9666126d73b629303d53846337f0dd7a"
     },
     {
         "path": "tags",
@@ -162,11 +197,11 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "ca6c033e366c75e10613da6509e807ca"
+        "md5": "14b6eb86c112e66b9d6f13991382b1d9"
     },
     {
         "path": "we-can-help-your-business-automate-time-intensive-tasks-with-proven-secure-open-source-tools.html",
         "type": "file",
-        "md5": "1fe2092b5962c9e3a8f736a6c7730652"
+        "md5": "b7e7210cab0f0fb4906ff834ed964b1a"
     }
 ]
